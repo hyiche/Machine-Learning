@@ -1,0 +1,4 @@
+getmusic:從excel表中,取得url去youtube抓取音樂並轉換及剪輯
+getpicture:將剪輯完的音樂轉換成圖片
+transfer:遷移學習模型
+fintuning:fintunin模型
